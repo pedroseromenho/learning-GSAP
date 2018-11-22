@@ -41,7 +41,7 @@ magic
 var scene = new ScrollMagic.Scene({
     triggerElement: '.card-container',
     offset: 150,
-    // duration: 50,
+    duration: 4000,
     reverse: true
 })
 
